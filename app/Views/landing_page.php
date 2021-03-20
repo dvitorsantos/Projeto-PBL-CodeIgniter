@@ -22,11 +22,7 @@
                 massa augue accumsan risus, et porttitor enim sem sit amet tellus. Phasellus sollicitudin,
                 enim quis volutpat congue, risus quam mollis felis, ac sagittis est nisl id quam.</p>
                 <div class='botao-entrar'>
-                <form method="POST" action="home">
-                    <button type="submit" name="botao" class="btn btn-success">
-                        Entrar no site!
-                    </button>
-                </form>
+                    <a class="btn btn-success" href="home" role="button">Entrar no site!</a>
                 <h5><small><?= $acessos ?> pessoas já acessaram esse site!</small></h5>
                 </div>
             </div>

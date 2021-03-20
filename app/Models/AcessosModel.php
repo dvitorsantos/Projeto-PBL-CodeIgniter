@@ -7,7 +7,6 @@ use CodeIgniter\Model;
 class AcessosModel extends Model
 {
     protected $db;
-    protected $acessos;
 
     function __construct() {
         $this->db = \Config\Database::connect();
