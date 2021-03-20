@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link rel="stylesheet" href="<?php echo base_url('assets/css/landing.css'); ?>">
     <title>Projeto PBL</title>
 </head>
 
@@ -29,51 +30,4 @@
         </div>
     </div>
 </body>
-<style>
-    .background {
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.texto {
-    text-align: justify;
-    margin: 0 4rem 0 0;
-}
-
-.botao-entrar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-@media only screen and (max-width: 600px) {
-    .background {
-        height: 100%;
-        width: 100%;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .background img {
-        display: none;
-    }
-
-    .texto {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        margin: 2rem 2rem 0 2rem;
-    }
-
-    .botao-entrar {
-        flex-direction: column-reverse;
-        margin: 2rem 0 2rem 0;
-    }
-}
-</style>
 </html>
