@@ -39,13 +39,41 @@
 }
 
 .texto {
-    margin-right: 4rem;
+    text-align: justify;
+    margin: 0 4rem 0 0;
 }
 
 .botao-entrar {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .background {
+        height: 100%;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .background img {
+        display: none;
+    }
+
+    .texto {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 2rem 2rem 0 2rem;
+    }
+
+    .botao-entrar {
+        flex-direction: column-reverse;
+        margin: 2rem 0 2rem 0;
+    }
 }
 </style>
 </html>
