@@ -11,7 +11,7 @@ class Home extends BaseController
 	
 	public function inicio() {
 		echo view('home/header');
-		echo 'Inicio';
+		echo view('home/inicio');
 	}
 	
 	public function pesquisa_popular() {
