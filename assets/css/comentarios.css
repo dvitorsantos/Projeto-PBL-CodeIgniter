@@ -1,0 +1,16 @@
+
+.title {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-comentario {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.card {
+    margin: 2rem 0 2rem 0;
+}
