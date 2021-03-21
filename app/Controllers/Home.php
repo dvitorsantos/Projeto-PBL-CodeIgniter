@@ -25,8 +25,26 @@ class Home extends BaseController
 	}
 	
 	public function comentarios() {
+		$comentarioModel = model('comentariomodel');
+		$data['comentarios'] = $comentarioModel->getAllComentario();
 		echo view('home/header');
-		echo 'Comentários';
+		echo view('home/comentarios', $data);
+	}
+
+	public function adicionar_comentario() {
+		if ($this->request->getMethod() === 'post') {
+			$comentarioModel = model('comentariomodel');
+
+			$nome = $this->request->getPost('nome');
+			$comentario = $this->request->getPost('comentario');
+
+			$comentarioModel->insertComentario($nome, $comentario);
+			return redirect()->to('../public/index.php/home/comentarios'); 
+		}
+    	else {
+			echo view('home/header');
+			echo view('home/adicionar_comentario');
+		}
 	}
 	
 	public function creditos() {
