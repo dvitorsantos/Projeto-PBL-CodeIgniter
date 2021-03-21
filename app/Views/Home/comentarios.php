@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="<?php echo base_url('assets/css/comentarios.css'); ?>">
     <title>Document</title>
 </head>
-<body>
+<body class="container">
     <div class="title">
         <h1 class="display-4">Comentários</h1>
         <p class="lead">

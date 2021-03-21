@@ -1,0 +1,51 @@
+body, html{
+    margin: 0;
+    font: 16px "lato", sans-serif;
+    height: 100%;
+    
+
+}
+
+
+.container-sm{
+    margin-top: 40px;
+}
+
+.col-8{
+    border: 1px solid blue;
+}
+
+.col{
+    border: 1px solid red;
+    margin-left: 15px;
+}
+
+.caixa1, .caixa2, .caixa3, .caixa4{
+    position: relative;
+    height: 100%;
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.caixa1{
+    background-image: url(../images/natureza3.jpeg);
+
+}
+
+.conteudo-titulo{
+    width: 100%;
+    top: 45%;
+    position: absolute;
+    left: 0;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+
+.conteudo-titulo span.titulo{
+    
+    padding: 18px;
+}

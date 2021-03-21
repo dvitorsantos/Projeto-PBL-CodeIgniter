@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="<?php echo base_url('assets/css/adicionar_comentario.css'); ?>">
     <title>Document</title>
 </head>
-<body>
+<body class="container">
   <div class="container-add-comentario">
     <h1 class="display-4">Digite seu comentário</h1>
     <p class="lead">
