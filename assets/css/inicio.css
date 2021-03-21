@@ -1,0 +1,13 @@
+
+.container-sm{
+    margin-top: 40px;
+}
+
+.col-8{
+    border: 1px solid blue;
+}
+
+.col{
+    border: 1px solid red;
+    margin-left: 15px;
+}
