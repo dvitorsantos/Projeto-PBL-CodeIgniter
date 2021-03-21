@@ -1,0 +1,32 @@
+
+.title {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-comentario {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.card {
+    margin: 2rem 0 2rem 0;
+}
+
+.hora {
+    display: flex;
+    align-items: center;
+}
+
+.data {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 2rem;
+    height: 2rem;
+}

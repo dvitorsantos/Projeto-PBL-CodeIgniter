@@ -34,7 +34,6 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Landing::index');
 
-
 /*
  * --------------------------------------------------------------------
  * Additional Routing
