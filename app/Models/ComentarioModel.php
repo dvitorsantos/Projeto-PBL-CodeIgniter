@@ -17,7 +17,7 @@ class AcessosModel extends Model
         $query = $this->db->query('SELECT * FROM `tb_comentario`');
         $result = [];
         foreach ($query->getResult() as $row) {
-                array_push($result, $row->nome, $row->comentario);
+                array_push($result, $row->nome, $row->comentario, $row->time, $row->date);
             }
         return $result;
     }
