@@ -1,25 +1,19 @@
 body, html{
     margin: 0;
     height: 100%;
+	border: 0;
+    background-image: linear-gradient(135deg, #bebebea6 0, #bebebea6 12.5%, #bebebea6 25%, #bebebea6 37.5%, #bebebea6 50%, #bebebea6 62.5%, #bebebea6 75%, #bebebea6 87.5%, #bebebea6 100%);
+   
+
 }
 
-
-.container-sm{
+.container-xxl{
     margin-top: 40px;
-}
-
-.col-8{
-    border: 1px solid blue;
-}
-
-.col{
-    border: 1px solid red;
-    margin-left: 15px;
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4{
     position: relative;
-    height: 100%;
+    height: 65%;
     opacity: 0.9;
     background-repeat: no-repeat;
     background-size: cover;
@@ -29,20 +23,33 @@ body, html{
 
 .caixa1{
     background-image: url(../images/ensino-ead.png);
+    filter : brightness(40%);
+}
+
+#conteudo{
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: white ;
+    
 
 }
 
-.conteudo-titulo{
+#conteudo h1{
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+/* .conteudo-titulo{
     width: 100%;
     top: 45%;
     position: absolute;
     left: 0;
     text-align: center;
-    font-size: 25px;
-    letter-spacing: 5px;
 }
 
 .conteudo-titulo span.titulo{
-    
     padding: 18px;
-}
+    
+} */
