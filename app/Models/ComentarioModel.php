@@ -14,7 +14,7 @@ class AcessosModel extends Model
 
     function getAllComentario() {
         $this->db = db_connect();
-        $query = $this->db->query('SELECT * FROM `tb_comentario`');
+        $query = $this->db->query('SELECT * FROM `tb_comentario` order by date(date) desc, time desc');
         $result = [];
         foreach ($query->getResult() as $row) {
                 array_push($result, $row->nome, $row->comentario, $row->time, $row->date);

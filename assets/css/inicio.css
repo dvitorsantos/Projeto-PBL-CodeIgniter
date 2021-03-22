@@ -1,9 +1,6 @@
 body, html{
     margin: 0;
-    font: 16px "lato", sans-serif;
     height: 100%;
-    
-
 }
 
 
@@ -31,7 +28,7 @@ body, html{
 }
 
 .caixa1{
-    background-image: url(../images/natureza3.jpeg);
+    background-image: url(../images/ensino-ead.png);
 
 }
 

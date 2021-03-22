@@ -1,9 +1,14 @@
-#navbarNav{
+.nav-item {
     display: flex;
-    justify-content: center;
-<<<<<<< HEAD
-    width: 100%;
+    align-items: center;
+    margin: 0 0.2rem 0 0.2rem;
 }
-=======
+
+.nav-item img {
+    width: 1.4rem;
+    height: 1.4rem;
 }
->>>>>>> b1b56fd64a0af8ee5e184f0eda7893336517ea9d
+
+.navbar-nav {
+    margin-left: 2rem;
+}

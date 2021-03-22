@@ -11,30 +11,20 @@
 </head>
 
 <body>
-
     <div class="caixa1">
-
         <div class="conteudo-titulo">
             <span class="titulo display-6">
                 Projeto-PBL
             </span>
         </div>
     </div>
-
-    <!-- comeco container -->
     <div class="container-sm">
-
-        <!-- comeco conteudo -->
         <div id="conteudo">
-
-
             <div class="row">
                 <div class="col-8">
-
                     <div class="">
                         <h1 class="display-6 text-center">Text 1</h1>
                     </div>
-
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit amet. Cursus in hac habitasse platea dictumst quisque. Cursus vitae congue mauris rhoncus. Leo integer malesuada nunc vel risus commodo viverra. Tortor at risus viverra adipiscing at. Sed egestas egestas fringilla phasellus faucibus. Pulvinar pellentesque habitant morbi tristique senectus et. Scelerisque eu ultrices vitae auctor eu augue ut lectus arcu. Adipiscing elit duis tristique sollicitudin nibh sit amet.</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis auctor elit sed vulputate mi sit amet. Cursus in hac habitasse platea dictumst quisque. Cursus vitae congue mauris rhoncus. Leo integer malesuada nunc vel risus commodo viverra. Tortor at risus viverra adipiscing at. Sed egestas egestas fringilla phasellus faucibus. Pulvinar pellentesque habitant morbi tristique senectus et. Scelerisque eu ultrices vitae auctor eu augue ut lectus arcu. Adipiscing elit duis tristique sollicitudin nibh sit amet.
 
