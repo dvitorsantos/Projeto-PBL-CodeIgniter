@@ -4,11 +4,8 @@ body, html{
 	border: 0;
 }
 
-.container-xxl{
-    margin-top: 40px;
-}
 
-.caixa1, .caixa2, .caixa3, .caixa4{
+.caixa1{
     position: relative;
     height: 65%;
     opacity: 0.9;
@@ -27,7 +24,7 @@ body, html{
     text-align: justify;
     text-justify: inter-word;
     padding: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
     background-color: white;
 }
 
