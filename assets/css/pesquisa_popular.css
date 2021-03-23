@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2rem;
+}
+
+.outside-area {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 2rem;
+}
+
+.inside-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 3rem 0 3rem;
+    width: 50vw;
+    margin-top: 2rem;
+}
+
+.inside-area p {
+    text-align: justify;
+}
+
+.inside-area section {
+    margin-top: 2rem;
+}
+
+.cite {
+    margin-top: 3rem;
+}
+
