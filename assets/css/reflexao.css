@@ -1,0 +1,31 @@
+body{
+    background: #dddddd;
+}
+
+article#area1{
+    width: 45%;
+    background: #f9f3f3;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+article#area2{
+    width: 45%;
+    margin-right: 40px;
+    background: #f9f3f3;
+    border-radius: 10px;
+
+}
+
+.imagem1{
+    width: 100%;
+    opacity: 85%;
+}
+
+article#area3{
+    width: 45%;
+    margin-left: 40px;
+    background: #f9f3f3;
+    border-radius: 10px;
+    
+}

@@ -21,7 +21,7 @@ class Home extends BaseController
 
 	public function reflexao() {
 		echo view('home/header');
-		echo 'Reflexão';
+		echo view('home/reflexao');
 	}
 	
 	public function comentarios() {
