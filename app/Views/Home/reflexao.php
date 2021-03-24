@@ -12,10 +12,10 @@
 
 <body>
 
-    <section class="text-center mt-5">
-        <h1 class="display-4"> Reflexao</h1>
+    <div class="container">
+        <h1 class="display-4"> Reflexão</h1>
         <p class="lead">Apresentados alguns motivos de reflexao </p> 
-    </section>
+    </div>
 
     <section class="container-fluid mt-4">
 

@@ -17,7 +17,7 @@
     </div>
     <div class="outside-area">
         <div class="inside-area">
-            <section class="section">
+            <section class="card card-body">
                 <h1 class="display-6">Introdução</h1>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Donec sollicitudin fermentum laoreet. Vestibulum risus nibh, venenatis in enim nec,
@@ -30,22 +30,15 @@
                     Vestibulum efficitur placerat sapien a facilisis. Aenean semper justo at nulla consectetur,
                     ac ultricies odio semper. Suspendisse potenti.</p>
             </section>
-            <section>
+            <section class="card card-body">
                 <h1 class="display-6">Gráficos da Pesquisa</h1>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Donec sollicitudin fermentum laoreet. Vestibulum risus nibh, venenatis in enim nec,
-                    maximus bibendum ex. Mauris euismod eu nibh ut commodo. Sed at egestas urna.
-                    Pellentesque felis ligula, mattis vitae tristique eu, rutrum vel justo.
-                    Vivamus mollis risus vitae velit mattis interdum. In dictum sapien in magna lobortis,
-                    a auctor dolor posuere. Praesent malesuada laoreet felis quis rhoncus.
-                    Donec egestas mi ut dolor placerat lobortis. Suspendisse ut tempor nunc.
-                    Cras at blandit ipsum. Ut nulla eros, tristique eu odio vel, pellentesque maximus lectus.
-                    Vestibulum efficitur placerat sapien a facilisis. Aenean semper justo at nulla consectetur,
-                    ac ultricies odio semper. Suspendisse potenti.</p>
+                <p class="lead">Aqui estão os gráficos que foram resultado da pesquisa popular.</p>
+                <img src="<?php echo base_url('assets/images/nivel-escolaridade.png') ?>" alt="">
+                <img src="<?php echo base_url('assets/images/sente-dificuldade-ead.png') ?>" alt="">
             </section>
         </div>
         <div class="inside-area">
-            <section class="section">
+            <section class="card card-body">
                 <h1 class="display-6">Algumas Opniões</h1>
                 <p class="lead">Pedimos para os estudantes e professores deixarem suas opniões a respeito do EAD.</p>
                 <figure class="cite">
