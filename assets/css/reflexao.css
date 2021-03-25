@@ -8,19 +8,25 @@ body{
     align-items: center;
     flex-direction: column;
     margin-top: 2rem;
+}   
+
+section p{
+    text-align: justify;
+}
+
+article.area{
+    width: 45%;
+    background: #ffffff;
+    border-radius: 10px;
 }
 
 article#area1{
-    width: 45%;
-    background: #ffffff;
     margin-left: 40px;
     border-radius: 10px;
 }
 
 article#area2{
-    width: 45%;
     margin-right: 40px;
-    background: #ffffff;
     border-radius: 10px;
 
 }
@@ -31,9 +37,7 @@ article#area2{
 }
 
 article#area3{
-    width: 45%;
     margin-left: 40px;
-    background: #ffffff;
     border-radius: 10px;
     
 }
