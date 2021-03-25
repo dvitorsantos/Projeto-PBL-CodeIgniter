@@ -33,7 +33,7 @@
             echo "</div>";
         }
         ?>
-            <a class="btn btn-success" href="adicionar_comentario" role="button">Adicionar Comentário</a>
+            <a class="btn btn-success align-self-end" href="adicionar_comentario" role="button">Adicionar Comentário</a>
     </div>
 </body>
 
