@@ -12,16 +12,18 @@
 
 <body>
 
-    <div class="container">
+    <div class="titulo">
         <h1 class="display-4"> Reflexão</h1>
         <p class="lead">Apresentados alguns motivos de reflexao </p> 
     </div>
 
-    <section class="container-fluid mt-4">
+    <section class="outside-area mb-4">
 
-    <article id="area1" class="float-start clearfix p-3 area">
+    <div class="inside-area">
 
-    <h1 class="display-4"> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1>
+    <article class="card card-body">
+    
+    <h1 class="display-4 text-center mb-3"> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1>
 
     <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin justo urna</p>
 
@@ -29,22 +31,29 @@
 
     </article >
 
-    <article id="area2" class="float-end clearfix p-3 area">
-
-    <h1 class="display-4 text-center"> Area2</h1>
-
-    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin justo urna, iaculis posuere sapien vel, dapibus facilisis nulla. Pellentesque sapien mauris, facilisis sit amet purus non, laoreet fermentum justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus hendrerit blandit est, eu vulputate nibh convallis ut. Etiam quis accumsan purus, ac rhoncus enim. Sed auctor justo sed nisi molestie consequat. Suspendisse dolor diam, interdum at aliquet scelerisque, commodo vel enim. Sed quis dolor massa. Pellentesque in dictum neque. Integer non turpis nulla.</p>
-    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin justo urna, iaculis posuere sapien vel, dapibus facilisis nulla. Pellentesque sapien mauris, facilisis sit amet purus non, laoreet fermentum justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus hendrerit blandit est, eu vulputate nibh convallis ut. Etiam quis accumsan purus, ac rhoncus enim. Sed auctor justo sed nisi molestie consequat. Suspendisse dolor diam, interdum at aliquet scelerisque, commodo vel enim. Sed quis dolor massa. Pellentesque in dictum neque. Integer non turpis nulla.</p>
-    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin justo urna, iaculis posuere sapien vel, dapibus facilisis nulla. Pellentesque sapien mauris, facilisis sit amet purus non, laoreet fermentum justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus hendrerit blandit est, eu vulputate nibh convallis ut. Etiam quis accumsan purus, ac rhoncus enim. Sed auctor justo sed nisi molestie consequat. Suspendisse dolor diam, interdum at aliquet scelerisque, commodo vel enim. Sed quis dolor massa. Pellentesque in dictum neque. Integer non turpis nulla.</p>
-    </article>
  
-    <article id="area3" class="float-start clearfix mt-3 p-3 area">
+    <article class="card card-body">
 
-    <h1 class="display-4 text-center"> Area3</h1>
+    <h1 class="display-4 text-center mb-3"> Area3</h1>
 
     <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin justo urna, iaculis posuere sapien vel, dapibus facilisis nulla. Pellentesque sapien mauris, facilisis sit amet purus non, laoreet fermentum justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus hendrerit blandit est, eu vulputate nibh convallis ut. Etiam quis accumsan purus, ac rhoncus enim. Sed auctor justo sed nisi molestie consequat. Suspendisse dolor diam, interdum at aliquet scelerisque, commodo vel enim. Sed quis dolor massa. Pellentesque in dictum neque. Integer non turpis nulla.</p>
 
     </article>
+
+    </div>
+
+    <div class="inside-area">
+
+    <article class="card card-body ">
+
+    <h1 class="display-4 text-center mb-3"> Area2</h1>
+
+    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin justo urna, iaculis posuere sapien vel, dapibus facilisis nulla. Pellentesque sapien mauris, facilisis sit amet purus non, laoreet fermentum justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus hendrerit blandit est, eu vulputate nibh convallis ut. Etiam quis accumsan purus, ac rhoncus enim. Sed auctor justo sed nisi molestie consequat. Suspendisse dolor diam, interdum at aliquet scelerisque, commodo vel enim. Sed quis dolor massa. Pellentesque in dictum neque. Integer non turpis nulla.</p>
+    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin justo urna, iaculis posuere sapien vel, dapibus facilisis nulla. Pellentesque sapien mauris, facilisis sit amet purus non, laoreet fermentum justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus hendrerit blandit est, eu vulputate nibh convallis ut. Etiam quis accumsan purus, ac rhoncus enim. Sed auctor justo sed nisi molestie consequat. Suspendisse dolor diam, interdum at aliquet scelerisque, commodo vel enim. Sed quis dolor massa. Pellentesque in dictum neque. Integer non turpis nulla.</p>
+    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin justo urna, iaculis posuere sapien vel, dapibus facilisis nulla. Pellentesque sapien mauris, facilisis sit amet purus non, laoreet fermentum justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus hendrerit blandit est, eu vulputate nibh convallis ut. Etiam quis accumsan purus, ac rhoncus enim. Sed auctor justo sed nisi molestie consequat. Suspendisse dolor diam, interdum at aliquet scelerisque, commodo vel enim. Sed quis dolor massa. Pellentesque in dictum neque. Integer non turpis nulla.</p>
+    </article>
+
+    </div>
 
     </section>
 
