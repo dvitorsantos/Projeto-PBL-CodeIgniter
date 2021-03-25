@@ -12,9 +12,14 @@
     margin: 2rem 0 2rem 0;
 }
 
+.info-container {
+    display: flex;
+}
+
 .hour-and-date-info {
     display: flex;
     align-items: center;
+    margin-left: 0.4rem;
 }
 
 .hour-and-date-info img {

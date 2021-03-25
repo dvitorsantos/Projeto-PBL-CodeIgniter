@@ -21,6 +21,7 @@
             echo "<div class='card-body'>";
             echo "<h5 class='card-title'>" . $comentarios[$i] . "</h5>";
             echo "<p class='card-text'>" . $comentarios[$i + 1] . "</p>";
+            echo "<div class='info-container'>";
             echo "<div class='hour-and-date-info'>";
             echo "<img src='" . base_url('assets/icons/clock.svg') . "'></img>";
             echo "<p class='card-text'>" . $comentarios[$i + 2] . "</p>";
@@ -28,6 +29,7 @@
             echo "<div class='hour-and-date-info'>";
             echo "<img src='" . base_url('assets/icons/calendar.svg') . "'></img>";
             echo "<p class='card-text'>" . $comentarios[$i + 3] . "</p>";
+            echo "</div>";
             echo "</div>";
             echo "</div>";
             echo "</div>";
