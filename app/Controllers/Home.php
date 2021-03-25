@@ -49,7 +49,6 @@ class Home extends BaseController
 	
 	public function creditos() {
 		echo view('home/header');
-		echo 'Creditos';
 	}
 
 	public function updateAcessos() {

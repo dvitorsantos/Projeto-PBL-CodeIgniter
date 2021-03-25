@@ -11,7 +11,6 @@
 
 <body>
   <div class="container">
-    <div class="container-add-comentario">
       <h1 class="display-4">Digite seu comentário</h1>
       <p class="lead">
         Obrigado por contribuir com a pesquisa.
@@ -26,7 +25,6 @@
           <textarea name="comentario" class="form-control" id="comentario" rows="3"></textarea>
         </div>
         <button type="submit" class="btn btn-primary">Enviar</button>
-    </div>
     </form>
   </div>
 </body>

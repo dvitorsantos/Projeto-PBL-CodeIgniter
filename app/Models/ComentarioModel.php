@@ -17,7 +17,8 @@ class AcessosModel extends Model
         $query = $this->db->query('SELECT * FROM `tb_comentario` order by date(date) desc, time desc limit 10');
         $result = [];
         foreach ($query->getResult() as $row) {
-                array_push($result, $row->nome, $row->comentario, $row->time, $row->date);
+                $timestamp = strtotime($row->date);
+                array_push($result, $row->nome, $row->comentario, substr($row->time, 0, -3), str_replace("-", "/", date("d-m-Y", $timestamp)));
             }
         return $result;
     }

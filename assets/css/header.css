@@ -1,3 +1,7 @@
+.background {
+    background-color: #21294c;
+}
+
 .nav-item {
     display: flex;
     align-items: center;
@@ -12,5 +16,3 @@
 .navbar-nav {
     margin-left: 2rem;
 }
-
-
