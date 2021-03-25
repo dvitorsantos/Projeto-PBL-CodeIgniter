@@ -11,23 +11,21 @@
 
 <body >
     <div class="container">
-        <div class="title">
             <h1 class="display-4">Comentários</h1>
             <p class="lead">
                 Aqui estão alguns comentários feitos pelos visitantes do site.
             </p>
-        </div>
         <?php
         for ($i = 0; $i < count($comentarios); $i = $i + 4) {
             echo "<div class='card'>";
             echo "<div class='card-body'>";
             echo "<h5 class='card-title'>" . $comentarios[$i] . "</h5>";
             echo "<p class='card-text'>" . $comentarios[$i + 1] . "</p>";
-            echo "<div class='hora'>";
+            echo "<div class='hour-and-date-info'>";
             echo "<img src='" . base_url('assets/icons/clock.svg') . "'></img>";
             echo "<p class='card-text'>" . $comentarios[$i + 2] . "</p>";
             echo "</div>";
-            echo "<div class='data'>";
+            echo "<div class='hour-and-date-info'>";
             echo "<img src='" . base_url('assets/icons/calendar.svg') . "'></img>";
             echo "<p class='card-text'>" . $comentarios[$i + 3] . "</p>";
             echo "</div>";
@@ -35,9 +33,7 @@
             echo "</div>";
         }
         ?>
-        <div class="add-comentario">
             <a class="btn btn-success" href="adicionar_comentario" role="button">Adicionar Comentário</a>
-        </div>
     </div>
 </body>
 

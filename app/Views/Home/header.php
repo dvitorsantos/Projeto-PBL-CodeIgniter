@@ -12,7 +12,6 @@
 
 <body> 
   <div class="sticky-top">
-
   <nav class="navbar navbar-expand-lg bg-light text-dark">
     <div class="container-fluid">
     <a class="navbar-brand link-dark" href="inicio">Projeto PBL</a>

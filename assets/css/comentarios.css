@@ -1,33 +1,23 @@
-
-.title {
-    margin-top: 2rem;
+.container {
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.add-comentario {
-    display: flex;
-    justify-content: flex-end;
-    margin-bottom: 4rem;
+    flex-direction: column;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .card {
+    width: 50vw;
     margin: 2rem 0 2rem 0;
 }
 
-.hora {
+.hour-and-date-info {
     display: flex;
     align-items: center;
 }
 
-.data {
-    display: flex;
-    align-items: center;
-}
-
-img {
+.hour-and-date-info img {
     width: 2rem;
     height: 2rem;
 }
