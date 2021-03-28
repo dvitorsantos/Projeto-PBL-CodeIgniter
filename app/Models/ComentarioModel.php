@@ -18,7 +18,7 @@ class AcessosModel extends Model
         $result = [];
         foreach ($query->getResult() as $row) {
                 $timestamp = strtotime($row->date);
-                array_push($result, $row->nome, $row->comentario, substr($row->time, 0, -3), str_replace("-", "/", date("d-m-Y", $timestamp)));
+                array_push($result, $row->nome, $row->comentario, substr($row->time, 0, -3), str_replace("-", "/", date("d-m-y", $timestamp)));
             }
         return $result;
     }

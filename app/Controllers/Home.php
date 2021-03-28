@@ -8,6 +8,11 @@ class Home extends BaseController
 		$this->updateAcessos();
 		return redirect()->to('public/index.php/home/inicio'); 
 	}
+
+	private function updateAcessos() {
+		$acessosModel = model('acessosmodel');
+		$acessosModel->updateAcessos();
+	}
 	
 	public function inicio() {
 		echo view('home/header');
@@ -31,6 +36,11 @@ class Home extends BaseController
 		echo view('home/comentarios', $data);
 	}
 
+	public function creditos() {
+		echo view('home/header');
+		echo view('home/creditos');
+	}
+
 	public function adicionar_comentario() {
 		if ($this->request->getMethod() === 'post') {
 			$comentarioModel = model('comentariomodel');
@@ -47,12 +57,5 @@ class Home extends BaseController
 		}
 	}
 	
-	public function creditos() {
-		echo view('home/header');
-	}
-
-	public function updateAcessos() {
-		$acessosModel = model('acessosmodel');
-		$acessosModel->updateAcessos();
-	}
+	
 }
