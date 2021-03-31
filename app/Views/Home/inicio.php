@@ -9,52 +9,50 @@
     <link rel="stylesheet" href="<?php echo base_url('assets/css/inicio.css'); ?>">
     <title>Incio</title>
 </head>
+
 <body>
     <div class="paralax-container"></div>
     <div class="container">
         <section class="card card-body">
-            <h1 class="display-6 text-center mb-3">Introdução</h1>
-            <p class="lead">A educação a distância (EAD) é um método de ensino em que alunos e
-                professores não compartilham o mesmo espaço físico ou interagem ao mesmo tempo.
-                A maior parte da comunicação entre professores e alunos é realizada por meio
-                de tecnologia. Devido à pandemia do coronavirus, as instituições de ensino precisaram
-                adotar a educação a distância (EAD) como meio para dar continuidade às aulas,
-                seja nas escolas de ensino básico, fundamental e médio, escolas de ensino superior,
-                como faculdades. O presente projeto é resultado de uma pesquisa qualitativa que conjugou
-                uma observação participante focada no fenômeno do fracasso do Ensino a Distância.
-                Além disso, foram utilizados questionários em uma pesquisa virtual realizada por meio
-                da ferramenta de formulários do Google, cujo público alvo são alunos da cidade de São Luís
-                do Maranhão no período de 2021, objetivando identificar fatores que geram dificuldades
-                no processo de ensino/aprendizagem dos alunos que realizam estudos em EAD.
-                A aplicação dos questionários realizou-se com a participação de 25 colaboradores
-                que contribuíram para a realização desta investigação. Os questionários foram importantes
-                para ajudar a esclarecer a realidade do Ensino a Distância no Brasil.</p>
-        </section>
-        <section class="card card-body">
-            <h1 class="display-6 text-center mb-3">Desenvolvimento</h1>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Donec sollicitudin fermentum laoreet. Vestibulum risus nibh, venenatis in enim nec,
-                    maximus bibendum ex. Mauris euismod eu nibh ut commodo. Sed at egestas urna.
-                    Pellentesque felis ligula, mattis vitae tristique eu, rutrum vel justo.
-                    Vivamus mollis risus vitae velit mattis interdum. In dictum sapien in magna lobortis,
-                    a auctor dolor posuere. Praesent malesuada laoreet felis quis rhoncus.
-                    Donec egestas mi ut dolor placerat lobortis. Suspendisse ut tempor nunc.
-                    Cras at blandit ipsum. Ut nulla eros, tristique eu odio vel, pellentesque maximus lectus.
-                    Vestibulum efficitur placerat sapien a facilisis. Aenean semper justo at nulla consectetur,
-                    ac ultricies odio semper. Suspendisse potenti.</p>
-        </section>
-        <section class="card card-body">
-            <h1 class="display-6 text-center mb-3">Conclusão</h1>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Donec sollicitudin fermentum laoreet. Vestibulum risus nibh, venenatis in enim nec,
-                    maximus bibendum ex. Mauris euismod eu nibh ut commodo. Sed at egestas urna.
-                    Pellentesque felis ligula, mattis vitae tristique eu, rutrum vel justo.
-                    Vivamus mollis risus vitae velit mattis interdum. In dictum sapien in magna lobortis,
-                    a auctor dolor posuere. Praesent malesuada laoreet felis quis rhoncus.
-                    Donec egestas mi ut dolor placerat lobortis. Suspendisse ut tempor nunc.
-                    Cras at blandit ipsum. Ut nulla eros, tristique eu odio vel, pellentesque maximus lectus.
-                    Vestibulum efficitur placerat sapien a facilisis. Aenean semper justo at nulla consectetur,
-                    ac ultricies odio semper. Suspendisse potenti.</p>
+        <h1 class="display-6 text-center mb-3">Pesquisa Bibliográfica</h1>
+            <p class="lead">A característica da educação a distância é o processo de ensino e aprendizagem,
+                utilizando diferentes mídias como ferramentas na disseminação do conhecimento.
+                O ambiente virtual possibilita a interação entre alunos e educadores e promove o
+                desenvolvimento intelectual por meio do uso das tecnologias de informação e comunicação (TIC),
+                de forma a realizar o ensino da inovação durante a formação profissional.</p>
+            <p class="lead">O EAD permite que os alunos combinem seus cursos com suas próprias possibilidades de tempo,
+                aprendendo em qualquer local disponível na velocidade exigida. Os professores podem fornecer conteúdo
+                na forma de texto ou vídeo-aulas e podem interagir com colegas e professores por meio de fóruns,
+                chats e blogs (um diário online que publica conteúdo e permite que os leitores façam comentários).</p>
+            <p class="lead">Em relação ao ensino e uso de tecnologia, Albertin & Brauer (2012) apontam que devido
+                às suas características, as organizações públicas ou sem fins lucrativos investem na educação a
+                distância há décadas. </p>
+            <p class="lead"> No que se refere à organização do sistema de educação a distância, Sathler (2009)
+                destacou que o “Referencial de Qualidade para a Educação Superior” em sua segunda edição em 2007
+                constituiu os elementos básicos para a definição dos princípios, diretrizes e padrões do sistema
+                de educação a distância. Para o autor, essas referências não têm efeito jurídico e apenas evidenciam
+                a sua finalidade, e nelas se baseia todo o trabalho de fiscalização do MEC. </p>
+            <p class="lead"> “Para um bom desempenho em um curso a distância, o aluno deve dispor de conhecimentos
+                básicos em informática, pois a falta desta habilidade pode refletir negativamente nas competências
+                do educando frente ao curso.” [Ferreira, Novaes & Pedrosa (2014]. </p>
+            <p class="lead"> Se os alunos forem devidamente supervisionados pela coordenação do curso, fatores
+                frustrantes como evasão escolar poderiam ser evitados. Por esse motivo, a presença do instrutor
+                durante todo o processo de aprendizagem é fundamental, pois ele e o instrutor dão suporte para
+                a efetiva implantação dos cursos a distância e a correta aplicação dos conteúdos. </p>
+            <p class="lead"> Para um bom funcionamento de um sistema de educação a distância além de “mão de obra”
+                especializada é necessário que as pessoas que tenham vontade de aprender, sejam impulsionadas pela
+                necessidade de adquirir conhecimento e disponham de meios de comunicação que as atinjam.
+                Por outro lado, é importante haver organização, ensinar através destes meios de comunicação,
+                mantendo diálogo permanente com os alunos. (CHAVES, 2001, p.33). </p>
+            <p class="lead"> Os alunos devem ser capazes de usar as tecnologias de informação e comunicação
+                para motivá-los a dominar e dominar essas ferramentas sem dificuldade. Os educadores devem
+                encorajar os alunos a serem responsáveis por seus estudos e cursos, disciplinados e dedicados. </p>
+            <p class="lead"> Apesar de você poder aprender em qualquer ambiente, a conexão com a
+                Internet acaba se tornando uma dependência e fica inacessível em muitos lugares,
+                mesmo que em alguns lugares do Brasil não haja eletricidade, muito menos acesso à Internet. </p>
+            <p class="lead"> Portanto, conclui-se que os alunos da EAD ainda enfrentam muitos desafios.
+                Eles devem estar atentos a esses desafios para aproveitar ao máximo esse formato,
+                que pode se tornar um grande aliado na democratização da educação. </p>
         </section>
     </div>
 </body>

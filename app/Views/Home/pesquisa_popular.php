@@ -19,22 +19,31 @@
         <div class="inside-area">
             <section class="card card-body">
                 <h1 class="display-6">Introdução</h1>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Donec sollicitudin fermentum laoreet. Vestibulum risus nibh, venenatis in enim nec,
-                    maximus bibendum ex. Mauris euismod eu nibh ut commodo. Sed at egestas urna.
-                    Pellentesque felis ligula, mattis vitae tristique eu, rutrum vel justo.
-                    Vivamus mollis risus vitae velit mattis interdum. In dictum sapien in magna lobortis,
-                    a auctor dolor posuere. Praesent malesuada laoreet felis quis rhoncus.
-                    Donec egestas mi ut dolor placerat lobortis. Suspendisse ut tempor nunc.
-                    Cras at blandit ipsum. Ut nulla eros, tristique eu odio vel, pellentesque maximus lectus.
-                    Vestibulum efficitur placerat sapien a facilisis. Aenean semper justo at nulla consectetur,
-                    ac ultricies odio semper. Suspendisse potenti.</p>
+                <p class="lead">A educação a distância (EAD) é um método de ensino em que alunos e
+                    professores não compartilham o mesmo espaço físico ou interagem ao mesmo tempo.
+                    A maior parte da comunicação entre professores e alunos é realizada por meio
+                    de tecnologia. Devido à pandemia do coronavirus, as instituições de ensino precisaram
+                    adotar a educação a distância (EAD) como meio para dar continuidade às aulas,
+                    seja nas escolas de ensino básico, fundamental e médio, escolas de ensino superior,
+                    como faculdades. O presente projeto é resultado de uma pesquisa qualitativa que conjugou
+                    uma observação participante focada no fenômeno do fracasso do Ensino a Distância.
+                    Além disso, foram utilizados questionários em uma pesquisa virtual realizada por meio
+                    da ferramenta de formulários do Google, cujo público alvo são alunos da cidade de São Luís
+                    do Maranhão no período de 2021, objetivando identificar fatores que geram dificuldades
+                    no processo de ensino/aprendizagem dos alunos que realizam estudos em EAD.
+                    A aplicação dos questionários realizou-se com a participação de 24 colaboradores
+                    que contribuíram para a realização desta investigação. Os questionários foram importantes
+                    para ajudar a esclarecer a realidade do Ensino a Distância no Brasil.</p>
             </section>
             <section class="card card-body">
                 <h1 class="display-6">Gráficos da Pesquisa</h1>
                 <p class="lead">Aqui estão os gráficos que foram resultado da pesquisa popular.</p>
                 <img src="<?php echo base_url('assets/images/nivel-escolaridade.png') ?>" alt="">
-                <img src="<?php echo base_url('assets/images/sente-dificuldade-ead.png') ?>" alt="">
+                <img src="<?php echo base_url('assets/images/sente-dificuldade.png') ?>" alt="">
+                <img src="<?php echo base_url('assets/images/qualidade-aulas.png') ?>" alt="">
+                <img src="<?php echo base_url('assets/images/ead-boa-solucao.png') ?>" alt="">
+                <img src="<?php echo base_url('assets/images/sistema-hibrido.png') ?>" alt="">
+                <img src="<?php echo base_url('assets/images/novas-experiencias.png') ?>" alt="">
             </section>
         </div>
         <div class="inside-area">
@@ -107,19 +116,46 @@
                         Estudante do <cite title="Source Title">Ensino Médio</cite>
                     </figcaption>
                 </figure>
-            </section>
-            <section class="card card-body">
-                <h1 class="display-6">Conclusão</h1>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Donec sollicitudin fermentum laoreet. Vestibulum risus nibh, venenatis in enim nec,
-                    maximus bibendum ex. Mauris euismod eu nibh ut commodo. Sed at egestas urna.
-                    Pellentesque felis ligula, mattis vitae tristique eu, rutrum vel justo.
-                    Vivamus mollis risus vitae velit mattis interdum. In dictum sapien in magna lobortis,
-                    a auctor dolor posuere. Praesent malesuada laoreet felis quis rhoncus.
-                    Donec egestas mi ut dolor placerat lobortis. Suspendisse ut tempor nunc.
-                    Cras at blandit ipsum. Ut nulla eros, tristique eu odio vel, pellentesque maximus lectus.
-                    Vestibulum efficitur placerat sapien a facilisis. Aenean semper justo at nulla consectetur,
-                    ac ultricies odio semper. Suspendisse potenti.</p>
+                <figure class="cite">
+                    <blockquote class="blockquote">
+                        <p>é uma boa alternativa quando bem aplicado.</p>
+                    </blockquote>
+                    <figcaption class="blockquote-footer">
+                        Estudante do <cite title="Source Title">Ensino Médio</cite>
+                    </figcaption>
+                </figure>
+                <figure class="cite">
+                    <blockquote class="blockquote">
+                        <p>Talvez com o tempo esse método possa melhorar ainda mas, tornando-se uma opção viável com o passa do tempo.</p>
+                    </blockquote>
+                    <figcaption class="blockquote-footer">
+                        Estudante do <cite title="Source Title">Ensino Médio</cite>
+                    </figcaption>
+                </figure>
+                <figure class="cite">
+                    <blockquote class="blockquote">
+                        <p>Com o ensino a distância a maioria dos alunos não se interessam pelas matérias e/ou se distraem e perdem o foco.</p>
+                    </blockquote>
+                    <figcaption class="blockquote-footer">
+                        Estudante do <cite title="Source Title">Ensino Médio</cite>
+                    </figcaption>
+                </figure>
+                <figure class="cite">
+                    <blockquote class="blockquote">
+                        <p>É bom quando o professor sabe engajar a turma</p>
+                    </blockquote>
+                    <figcaption class="blockquote-footer">
+                        Estudante do <cite title="Source Title">Ensino Médio</cite>
+                    </figcaption>
+                </figure>
+                <figure class="cite">
+                    <blockquote class="blockquote">
+                        <p>Complica muito o nosso desenvolvimento intelectual.</p>
+                    </blockquote>
+                    <figcaption class="blockquote-footer">
+                        Estudante do <cite title="Source Title">Ensino Médio</cite>
+                    </figcaption>
+                </figure>
             </section>
         </div>
     </div>

@@ -16,65 +16,43 @@
         <p class="lead">Os desenvolvedores do site e as referências da pesquisa.</p>
         <div class="creators">
             <section class="card card-body">
-                <img src="<?php echo base_url('assets/images/natureza2.jpeg'); ?>" alt="">
+                <img src="<?php echo base_url('assets/images/presente-professor.jpeg'); ?>" alt="">
                 <div class="creators-info">
                     <h1 class="display-6">Pedro Henrique</h1>
-                    <p class="lead">Lorem ipsum dolor sit amet, <mark>vulgo ph</mark> consectetur adipiscing elit.
-                    Donec sollicitudin fermentum laoreet. Vestibulum risus nibh, venenatis in enim nec,
-                    maximus bibendum ex. Mauris euismod eu nibh ut commodo. Sed at egestas urna.
-                    Pellentesque felis ligula, mattis vitae tristique eu, rutrum vel justo.
-                    Vivamus mollis risus vitae velit mattis interdum. In dictum sapien in magna lobortis,
-                    a auctor dolor posuere. Praesent malesuada laoreet felis quis rhoncus.
-                    Donec egestas mi ut dolor placerat lobortis. Suspendisse ut tempor nunc.
-                    Cras at blandit ipsum. Ut nulla eros, tristique eu odio vel, pellentesque maximus lectus.
-                    Vestibulum efficitur placerat sapien a facilisis. Aenean semper justo at nulla consectetur,
-                    ac ultricies odio semper. Suspendisse potenti.</p>
+                    <p class="form-text">Vulgo PH</p>
+                    <p class="lead">Presente, Fallen. (งツ)ว</p>
                 </div>
             </section>
             <section class="card card-body">
-                <img src="<?php echo base_url('assets/images/natureza3.jpeg'); ?>" alt="">
+                <img src="<?php echo base_url('assets/images/si-profe.jpg'); ?>" alt="">
                 <div class="creators-info">
                     <h1 class="display-6">Matheus Rhazek</h1>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Donec sollicitudin fermentum laoreet. Vestibulum risus nibh, venenatis in enim nec,
-                    maximus bibendum ex. Mauris euismod eu nibh ut commodo. Sed at egestas urna.
-                    Pellentesque felis ligula, mattis vitae tristique eu, rutrum vel justo.
-                    Vivamus mollis risus vitae velit mattis interdum. In dictum sapien in magna lobortis,
-                    a auctor dolor posuere. Praesent malesuada laoreet felis quis rhoncus.
-                    Donec egestas mi ut dolor placerat lobortis. Suspendisse ut tempor nunc.
-                    Cras at blandit ipsum. Ut nulla eros, tristique eu odio vel, pellentesque maximus lectus.
-                    Vestibulum efficitur placerat sapien a facilisis. Aenean semper justo at nulla consectetur,
-                    ac ultricies odio semper. Suspendisse potenti.</p>
+                    <p class="form-text">Vulgo Rhazekão</p>
+                    <p class="lead">Shalom ¯\_(ツ)_/¯</p>
                 </div>
             </section>
             <section class="card card-body">
-                <img src="<?php echo base_url('assets/images/natureza1.jpeg'); ?>" alt="">
+                <img src="<?php echo base_url('assets/images/vitor.jpeg'); ?>" alt="">
                 <div class="creators-info">
                     <h1 class="display-6">Vitor Alan</h1>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Donec sollicitudin fermentum laoreet. Vestibulum risus nibh, venenatis in enim nec,
-                    maximus bibendum ex. Mauris euismod eu nibh ut commodo. Sed at egestas urna.
-                    Pellentesque felis ligula, mattis vitae tristique eu, rutrum vel justo.
-                    Vivamus mollis risus vitae velit mattis interdum. In dictum sapien in magna lobortis,
-                    a auctor dolor posuere. Praesent malesuada laoreet felis quis rhoncus.
-                    Donec egestas mi ut dolor placerat lobortis. Suspendisse ut tempor nunc.
-                    Cras at blandit ipsum. Ut nulla eros, tristique eu odio vel, pellentesque maximus lectus.
-                    Vestibulum efficitur placerat sapien a facilisis. Aenean semper justo at nulla consectetur,
-                    ac ultricies odio semper. Suspendisse potenti.</p>
+                    <p class="form-text">Vulgo Vitão</p>
+                    <p class="lead">Qualquer coisa me bota na recupeçawm ƪ(ړײ)‎ƪ​​ </p>
                 </div>
             </section>
         </div>
         <div class="referencias">
-            <section  class="card card-body">
-            <h1 class="display-6">Referências</h1>
-            <p class="lead">Aqui estão as referências das pesquisas.</p>
-                <a href="https://getbootstrap.com/">https://getbootstrap.com/</a>
-                <a href="https://getbootstrap.com/">https://getbootstrap.com/</a>
-                <a href="https://getbootstrap.com/">https://getbootstrap.com/</a>
-                <a href="https://getbootstrap.com/">https://getbootstrap.com/</a>
-            </div>
-        </section>
+            <section class="card card-body">
+                <h1 class="display-6">Referências</h1>
+                <p class="lead">Aqui estão as referências das pesquisas.</p>
+                <p class="lead">Albertin, A. L., & Brauer, M. (2012). Resistência à educação a distância na educação corporativa. Revista de Administração Pública-RAP, 46(5). Disponível em: <a href="http://www.scielo.br/pdf/rap/v46n5/a09v46n5">http://www.scielo.br/pdf/rap/v46n5/a09v46n5</a> </p>
+                <p class="lead">Sathler, L. (2009). Referenciais de qualidade para a Educação superior a distância: Desafios de uma cami-nhada regulatória. Colabor@-A Revista Digital da CVA-RICESU, 5(17). Disponível em: <a href="http://pead.ucpel.tche.br/revistas/index.php/colabora/article/view/3/3">http://pead.ucpel.tche.br/revistas/index.php/colabora/article/view/3/3</a> </p>
+                <p class="lead">Ferreira Alves, T. M., Novaes Menezes, A. H., & Pedrosa Vasconcelos, F. M. de B. (2014). CRESCIMENTO DA EDUCAÇÃO A DISTÂNCIA E SEUS DESAFIOS: UMA REVISÃO BIBLIOGRÁFICA. Revista De Educação Da Universidade Federal Do Vale Do São Francisco, 4(6). Recuperado de <a href="https://www.periodicos.univasf.edu.br/index.php/revasf/article/view/269">https://www.periodicos.univasf.edu.br/index.php/revasf/article/view/269</a> </p>
+                <p class="lead">CHAVES, E. R. S. Ensino à distância 2001. Monografia (Curso de Docência do Ensino Fundamental e Médio) - Universidade Cândido Mendes, Rio de Janeiro 2001. </p>
+                <p class="lead"> <a href="https://www.todospelaeducacao.org.br/_uploads/_posts/425.pdf?1730332266=">https://www.todospelaeducacao.org.br/_uploads/_posts/425.pdf?1730332266=</a> </p>
+                <p class="lead">SOUSA, Brenda Gabriele Marinho de. A pandemia da COVID-19: O ensino à distância e os seus desafios. Revista Científica Multidisciplinar Núcleo do Conhecimento. Ano 05, Ed. 09, Vol. 10, pp. 05-13. Outubro de 2020. ISSN: 2448-0959, Link de acesso: <a href="https://www.nucleodoconhecimento.com.br/educacao/a-pandemia">https://www.nucleodoconhecimento.com.br/educacao/a-pandemia</a> </p>
         </div>
+        </section>
+    </div>
 </body>
 
 </html>
