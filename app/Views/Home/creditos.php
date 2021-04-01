@@ -28,7 +28,7 @@
                 <div class="creators-info">
                     <h1 class="display-6">Matheus Rhazek</h1>
                     <p class="form-text">Vulgo Rhazekão</p>
-                    <p class="lead">Shalom ¯\_(ツ)_/¯</p>
+                    <p class="lead">Qualquer coisa me bota na recuperaçawm (meme) ¯\_(ツ)_/¯</p>
                 </div>
             </section>
             <section class="card card-body">
@@ -36,7 +36,7 @@
                 <div class="creators-info">
                     <h1 class="display-6">Vitor Alan</h1>
                     <p class="form-text">Vulgo Vitão</p>
-                    <p class="lead">Qualquer coisa me bota na recupeçawm ƪ(ړײ)‎ƪ​​ </p>
+                    <p class="lead">ƪ(ړײ)‎ƪ​​ </p>
                 </div>
             </section>
         </div>

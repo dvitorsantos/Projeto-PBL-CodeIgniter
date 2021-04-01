@@ -15,13 +15,15 @@
         <img src="<?php echo base_url('assets/images/img-landing-page.png');?>" alt="educação a distância">
         <div class='texto'>
             <h1>Projeto PBL</h1>
-            <p class='lead'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum,
-                nibh quis ornare pharetra, mauris augue condimentum nibh, vitae congue erat ante in lacus.
-                Aenean malesuada libero id erat ultricies pulvinar. Nulla quis facilisis leo.
-                Nulla facilisis nunc mi, quis interdum turpis euismod id. Morbi suscipit lorem massa,
-                ut porttitor odio gravida ut. Maecenas tincidunt, ex nec iaculis condimentum,
-                massa augue accumsan risus, et porttitor enim sem sit amet tellus. Phasellus sollicitudin,
-                enim quis volutpat congue, risus quam mollis felis, ac sagittis est nisl id quam.</p>
+            <p class='lead'>Este site é resultado de uma pesquisa sobre as dificuldades dos alunos nas aulas remotas no Brasil.</p>
+            <figure class="cite">
+                    <blockquote class="blockquote">
+                        <p>“Educação não transforma o mundo. Educação muda as pessoas. Pessoas transformam o mundo.”</p>
+                    </blockquote>
+                    <figcaption class="blockquote-footer">
+                        Filósofo e Educador <cite title="Source Title">Paulo Freire</cite>
+                    </figcaption>
+                </figure>
                 <div class='botao-entrar'>
                     <a class="btn btn-success" href="home" role="button">Entrar no site!</a>
                 <h5><small><?= $acessos ?> pessoas já acessaram esse site!</small></h5>

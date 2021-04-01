@@ -1,5 +1,4 @@
 body, html{
-
     height: 100%;
 }
 
@@ -22,4 +21,9 @@ body, html{
 section {
     text-align: justify;
     margin-top: 2rem;
+}
+
+section img {
+    border-radius: 1rem;
+    margin: 1rem 0 1rem 0;
 }

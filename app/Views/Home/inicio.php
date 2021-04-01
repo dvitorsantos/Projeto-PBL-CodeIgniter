@@ -14,7 +14,7 @@
     <div class="paralax-container"></div>
     <div class="container">
         <section class="card card-body">
-        <h1 class="display-6 text-center mb-3">Pesquisa Bibliográfica</h1>
+            <h1 class="display-6 text-center mb-3">Pesquisa Bibliográfica</h1>
             <p class="lead">A característica da educação a distância é o processo de ensino e aprendizagem,
                 utilizando diferentes mídias como ferramentas na disseminação do conhecimento.
                 O ambiente virtual possibilita a interação entre alunos e educadores e promove o
@@ -53,6 +53,7 @@
             <p class="lead"> Portanto, conclui-se que os alunos da EAD ainda enfrentam muitos desafios.
                 Eles devem estar atentos a esses desafios para aproveitar ao máximo esse formato,
                 que pode se tornar um grande aliado na democratização da educação. </p>
+                <img src="<?php echo base_url('assets/images/estudar-pelo-computador.jpg') ?>" alt="">
         </section>
     </div>
 </body>

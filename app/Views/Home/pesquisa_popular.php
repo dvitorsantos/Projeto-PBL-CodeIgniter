@@ -156,6 +156,7 @@
                         Estudante do <cite title="Source Title">Ensino Médio</cite>
                     </figcaption>
                 </figure>
+                <img src="<?php echo base_url('assets/images/imagem-pesquisa-popular.jpg') ?>" alt="">
             </section>
         </div>
     </div>
