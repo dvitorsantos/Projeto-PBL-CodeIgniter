@@ -60,8 +60,12 @@
                     e informação (relacionadas ao conteúdo escolar e à capacidade de lidar com os recursos digitais)
                     ou mesmo devido às condições existentes.</p>
                     <img src="<?php echo base_url('assets/images/tirinha-ead.jpg'); ?>">
+                    <h1 class="display-4 text-center mb-3 mt-3">Video</h1>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/GwjspyRBDa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </article>
         </div>
+
+        
     </section>
 </body>
 

@@ -34,7 +34,7 @@
                 a sua finalidade, e nelas se baseia todo o trabalho de fiscalização do MEC. </p>
             <p class="lead"> “Para um bom desempenho em um curso a distância, o aluno deve dispor de conhecimentos
                 básicos em informática, pois a falta desta habilidade pode refletir negativamente nas competências
-                do educando frente ao curso.” [Ferreira, Novaes & Pedrosa (2014]. </p>
+                do educando frente ao curso.” [Ferreira, Novaes & Pedrosa (2014)]. </p>
             <p class="lead"> Se os alunos forem devidamente supervisionados pela coordenação do curso, fatores
                 frustrantes como evasão escolar poderiam ser evitados. Por esse motivo, a presença do instrutor
                 durante todo o processo de aprendizagem é fundamental, pois ele e o instrutor dão suporte para
@@ -45,7 +45,7 @@
                 Por outro lado, é importante haver organização, ensinar através destes meios de comunicação,
                 mantendo diálogo permanente com os alunos. (CHAVES, 2001, p.33). </p>
             <p class="lead"> Os alunos devem ser capazes de usar as tecnologias de informação e comunicação
-                para motivá-los a dominar e dominar essas ferramentas sem dificuldade. Os educadores devem
+                para motivá-los a dominar essas ferramentas sem dificuldade. Os educadores devem
                 encorajar os alunos a serem responsáveis por seus estudos e cursos, disciplinados e dedicados. </p>
             <p class="lead"> Apesar de você poder aprender em qualquer ambiente, a conexão com a
                 Internet acaba se tornando uma dependência e fica inacessível em muitos lugares,
