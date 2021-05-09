@@ -7,17 +7,17 @@
  ###Objetivo
   Verificar os impactos do ensino à distância na educação brasileira, entender as principais opniões dos estudantes e refletir se essa modalidade de ensino realmente atende as expectativas,
   
- ###Tecnologias
+ #Tecnologias
   - [CodeIgniter 2](https://codeigniter.com/)
   
- ###Contribuição
+ #Contribuição
   Pedro Araújo: https://github.com/PedroHenBa
   
- ###Licença
+ #Licença
  https://img.shields.io/apm/l/vim-mode
  
- ###Autor
-  Vitor Santos 🚀
+ #Autor
+  ##Vitor Santos 🚀
   Feito com ❤️ por Vitor Santos 👋🏽 Entre em contato!
 
 [![Gmail Badge](https://img.shields.io/badge/-vitoralannl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitoralannl@gmail.com)](mailto:vitoralannl@gmail.com)
