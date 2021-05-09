@@ -18,7 +18,7 @@
   
  Licença
  ---
- https://img.shields.io/apm/l/vim-mode
+ ![Badge](https://img.shields.io/apm/l/vim-mode)
  
  Autor
  ---
