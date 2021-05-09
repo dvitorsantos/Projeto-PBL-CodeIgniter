@@ -4,23 +4,23 @@
 
 🔎 https://projeto-pbl.000webhostapp.com
 
- <h2>Objetivo<h2/>
+ Objetivo
  ---
   Verificar os impactos do ensino à distância na educação brasileira, entender as principais opniões dos estudantes e refletir se essa modalidade de ensino realmente atende as expectativas,
   
- <h2>Tecnologias<h2/>
+ Tecnologias
  ---
   - [CodeIgniter 2](https://codeigniter.com/)
   
- <h2>Contribuição<h2/>
+ Contribuição
  ---
   Pedro Araújo: https://github.com/PedroHenBa
   
- <h2>Licença<h2/>
+ Licença
  ---
  https://img.shields.io/apm/l/vim-mode
  
- <h2>Autor<h2/>
+ Autor
  ---
   Vitor Santos 🚀
   Feito com ❤️ por Vitor Santos 👋🏽 Entre em contato!
